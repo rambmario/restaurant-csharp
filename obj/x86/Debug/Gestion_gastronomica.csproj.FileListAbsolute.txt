@@ -1,0 +1,421 @@
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+C:\Programacion\ingsoft\mio\Proyec 1 (Actual)\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csproj.GenerateResource.Cache
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+V:\VBNet\Varios\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.100.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.121.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.read.146.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.146.tlog
+C:\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.read.146.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.100.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.121.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\GenerateResource.write.146.tlog
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+C:\backup25-1-2014\Programacion\ingsoft\mio\actual\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmBanco.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmCliente.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsulta_caja.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleBanco.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleCliente.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleReserva_Mesa.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmGestion_caja.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMultiTicket.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPasswordControl.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+C:\Ingesoft\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmBanco.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmCliente.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsulta_caja.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleBanco.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleCliente.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleReserva_Mesa.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmGestion_caja.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMultiTicket.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPasswordControl.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csproj.GenerateResource.Cache
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Reporte.Formulario_report.frmReporte_caja.resources
+V:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csprojResolveAssemblyReference.cache
+H:\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+H:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+H:\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmBanco.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmCliente.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsulta_caja.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleBanco.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleCliente.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleReserva_Mesa.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmGestion_caja.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMultiTicket.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPasswordControl.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Reporte.Formulario_report.frmReporte_caja.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csproj.GenerateResource.Cache
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsultaProducto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmActualizarPrecioProducto.resources
+H:\Google Drive\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csprojResolveAssemblyReference.cache
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.Shared.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\FlashControlV71.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\ShockwaveFlashObjects.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\stdole.dll
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmBanco.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmCliente.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmActualizarPrecioProducto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsultaProducto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsulta_caja.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleBanco.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleCliente.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleReserva_Mesa.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmGestion_caja.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMultiTicket.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPasswordControl.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Reporte.Formulario_report.frmReporte_caja.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csproj.GenerateResource.Cache
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFactura.resources
+E:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csprojResolveAssemblyReference.cache
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe.config
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.exe
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.pdb
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.exe
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Gestion_gastronomica.pdb
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.Shared.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\FlashControlV71.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\ShockwaveFlashObjects.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmBanco.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmCliente.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmActualizarPrecioProducto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsultaProducto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsulta_caja.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleBanco.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleCliente.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleReserva_Mesa.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFactura.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmGestion_caja.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMultiTicket.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPasswordControl.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.Reporte.Formulario_report.frmReporte_caja.resources
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csproj.GenerateResource.Cache
+D:\Google Drive 2\VBNet\Gestion_gastronomica\Gestion_gastronomica\obj\x86\Debug\Gestion_gastronomica.csprojResolveAssemblyReference.cache
+D:\VBNet\restaurant-csharp\bin\Debug\Gestion_gastronomica.exe.config
+D:\VBNet\restaurant-csharp\bin\Debug\Gestion_gastronomica.exe
+D:\VBNet\restaurant-csharp\bin\Debug\Gestion_gastronomica.pdb
+D:\VBNet\restaurant-csharp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.csproj.AssemblyReference.cache
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmBanco.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmCliente.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Producto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmGrupo_Usuario.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmMesa.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion_Producto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmProducto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmTipo_Producto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmUsuario.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmActualizarPrecioProducto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsultaProducto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmConsulta_caja.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleBanco.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleCliente.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Producto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleGrupo_Usuario.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleMesa.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleOpcion_Modificacion_Producto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleProducto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleReserva_Mesa.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleTipo_Producto.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmDetalleUsuario.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFactura.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoCheque.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoContado.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmFormaPagoTarjeta.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmGestion_caja.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmLogin.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMain.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmAbmOpcion_Modificacion.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmModificarPedido.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmMultiTicket.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPago.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPasswordControl.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Formularios.frmPedido.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Properties.Resources.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.Reporte.Formulario_report.frmReporte_caja.resources
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.csproj.GenerateResource.cache
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.csproj.CoreCompileInputs.cache
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.csproj.CopyComplete
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.exe
+D:\VBNet\restaurant-csharp\obj\x86\Debug\Gestion_gastronomica.pdb

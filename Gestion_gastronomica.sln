@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion_gastronomica", "Gestion_gastronomica.csproj", "{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Debug|x64.ActiveCfg = Debug|x86
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Debug|x64.Build.0 = Debug|x86
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Debug|x86.ActiveCfg = Debug|x86
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Debug|x86.Build.0 = Debug|x86
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Release|x64.ActiveCfg = Release|x64
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Release|x64.Build.0 = Release|x64
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Release|x86.ActiveCfg = Release|x86
+		{6AC4AAA1-F1A8-43EA-8668-8AD904F5CAC2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F087FB40-2B6B-443A-ABFD-5908E03E647C}
+	EndGlobalSection
+EndGlobal

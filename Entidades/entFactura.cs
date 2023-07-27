@@ -1,0 +1,202 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace Gestion_gastronomica.Entidades
+{
+    class entFactura
+    {
+        private int id_factura;
+        private string articulo;
+        private int cantidad;
+        private double precio;
+
+        private Conexion cnn = new Conexion();
+
+        public int pid_factura 
+        {
+            get {return id_factura ;}
+            set { id_factura = value;}
+        }
+        public string particulo
+        {
+            get { return articulo; }
+            set { articulo = value; }
+        }
+
+        public int pcantidad
+        {
+            get { return cantidad; }
+            set { cantidad = value; }
+        }
+        public double pprecio
+        {
+            get { return precio; }
+            set { precio = value; }
+        }
+
+
+        public entFactura() 
+        {
+            id_factura = 0;
+            articulo = "";
+            cantidad = 0;
+            precio = 0.00;
+        }
+
+        public void Insertar()
+        {
+            SqlCommand cmd = new SqlCommand();
+
+            cmd.Connection = cnn.Coneccion();
+            cmd.CommandText = "cop_Factura_Insert";
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlParameter outparam = cmd.Parameters.Add("@id_factura", SqlDbType.Int);
+            outparam.Direction = ParameterDirection.Output;
+            cmd.Parameters.AddWithValue("@articulo", particulo);
+            cmd.Parameters.AddWithValue("@cantidad", pcantidad);
+            cmd.Parameters.AddWithValue("@precio", pprecio);
+
+            cmd.Connection.Open();
+            cmd.ExecuteNonQuery();
+            pid_factura = Convert.ToInt32(cmd.Parameters["@id_factura"].Value);
+            cmd.Connection.Close();
+        }
+
+        //procedimiento de Update
+        public void Modificar()
+        {
+            SqlCommand cmd = new SqlCommand();
+
+            cmd.Connection = cnn.Coneccion();
+            cmd.CommandText = "cop_Factura_Update";
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@id_factura", pid_factura);
+            cmd.Parameters.AddWithValue("@articulo", particulo);
+            cmd.Parameters.AddWithValue("@cantidad", pcantidad);
+            cmd.Parameters.AddWithValue("@cantidad", pprecio);
+            cmd.Connection.Open();
+            cmd.ExecuteNonQuery();
+            cmd.Connection.Close();
+        }
+
+        //procedimiento de BORRADO
+        public void Borrar()
+        {
+            SqlCommand cmd = new SqlCommand();
+
+            cmd.Connection = cnn.Coneccion();
+            cmd.CommandText = "cop_Factura_Delete";
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@id_factura", pid_factura);
+            cmd.Connection.Open();
+            cmd.ExecuteNonQuery();
+            cmd.Connection.Close();
+        }
+
+        public DataTable Buscar(string Nombre)
+        {
+            DataTable odt = new DataTable();
+            SqlDataAdapter oda = new SqlDataAdapter("cop_Factura_Find", cnn.Coneccion());
+
+            oda.SelectCommand.CommandType = CommandType.StoredProcedure;
+            oda.SelectCommand.Parameters.AddWithValue("@articulo", Nombre);
+            oda.Fill(odt);
+
+            return odt;
+        }
+
+
+        //funcion para llenar el combo
+        public DataTable GetCmb()
+        {
+            DataTable odt = new DataTable();
+            SqlDataAdapter oda = new SqlDataAdapter("cop_Factura_GetCmb", cnn.Coneccion());
+
+            oda.SelectCommand.CommandType = CommandType.StoredProcedure;
+            oda.Fill(odt);
+
+            return odt;
+        }
+
+        //funcion que trae un registro poniendo su ID
+        public void GetOne(int id_factura)
+        {
+            DataTable odt = new DataTable();
+            SqlDataAdapter oda = new SqlDataAdapter("cop_Factura_GetOne", cnn.Coneccion());
+
+            oda.SelectCommand.CommandType = CommandType.StoredProcedure;
+            oda.SelectCommand.Parameters.AddWithValue("@id_factura", id_factura);
+
+            oda.Fill(odt);
+            DataRow odr;
+            odr = odt.Rows[0];
+
+            particulo = Convert.ToString(odr["articulo"]);
+            pcantidad = Convert.ToInt32(odr["cantiad"]);
+            pprecio = Convert.ToDouble(odr["precio"]);
+
+            // return odt;
+        }
+
+        //controla si existe el registro en la BD
+
+        public bool Exist()
+        {
+            DataTable odt = new DataTable();
+            SqlDataAdapter oda = new SqlDataAdapter("cop_Factura_Exist", cnn.Coneccion());
+            int Total = 0;
+
+            oda.SelectCommand.CommandType = CommandType.StoredProcedure;
+            oda.SelectCommand.Parameters.AddWithValue("@articulo", particulo);
+
+            oda.Fill(odt);
+
+            Total = Convert.ToInt32(odt.Rows[0]["Total"].ToString());
+
+            if (Total == 0)
+            {
+                return false;
+                //NO EXISTE
+            }
+            else { return true; } //SI EXISTE
+        }
+
+        //borra todos los datos de la tabla
+        public void Truncate()
+        {
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = cnn.Coneccion();
+            cmd.CommandText = "TRUNCATE TABLE FACTURA";
+            cmd.Connection.Open();
+            cmd.ExecuteNonQuery();
+            cmd.Connection.Close();
+        }
+
+        //Insertar un registro en la tabla
+        public void InsertOne()
+        {
+            SqlCommand command = new SqlCommand();
+            command.Connection = cnn.Coneccion();
+            command.CommandText = "cop_Factura_InsertOne";
+            command.CommandType = CommandType.StoredProcedure;
+            command.Connection.Open();
+            command.ExecuteNonQuery();
+            command.Connection.Close();
+        }
+
+        public DataTable GetAll()
+        {
+            DataTable odt = new DataTable();
+            SqlDataAdapter oda = new SqlDataAdapter("cop_Factura_GetAll", cnn.Coneccion());
+
+            oda.SelectCommand.CommandType = CommandType.StoredProcedure;
+
+            oda.Fill(odt);
+            return odt;
+        }
+    }
+}
