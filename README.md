@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-![Restaurant Management System](https://private-user-images.githubusercontent.com/33069691/256685832-345db265-c69d-436b-a466-c7a06aed5f99.png)
+![Restaurant Management System](https://github.com/rambmario/restaurant-csharp/assets/33069691/345db265-c69d-436b-a466-c7a06aed5f99)
 
 A desktop application built in C# and Windows Forms for managing restaurant operations end-to-end — from table assignments and order management to payment processing and fiscal printing.
 
