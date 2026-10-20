@@ -1,2 +1,10 @@
-DB/Gestion_gastronomica_log.ldf
-DB/Gestion_gastronomica.mdf
+## Visual Studio
+bin/
+obj/
+packages/
+.vs/
+*.user
+*.suo
+*.bak
+*.mdf
+*.ldf

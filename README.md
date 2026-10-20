@@ -1,3 +1,5 @@
+Legacy desktop app (C# WinForms, SQL Server, Crystal Reports) built at Ingesoft.
+
 # Restaurant Management System
 
 ![Restaurant Management System](https://github.com/rambmario/restaurant-csharp/assets/33069691/345db265-c69d-436b-a466-c7a06aed5f99)
